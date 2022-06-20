@@ -1,0 +1,38 @@
+.mainPageHeader {
+    text-align: start;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    width: 100%;
+    background-image: url('../../../public/home_wallpaper.jpg');
+    background-size: 100%;
+}
+
+.titleBox {
+    text-align: start;
+    color: white;
+    margin-top: 22em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+.titleStyle {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+.subtitleStyle {
+    font-weight: 300;
+    font-size: 1em;
+}
+
+.mainPageButtons {
+    margin-left: 1em;
+    white-space: nowrap;
+    margin-bottom: 1em;
+}
+
+.boldText {
+    font-weight: 500;
+}
